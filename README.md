@@ -5,9 +5,9 @@ I have created a simple Pong game to practice using Python.
 Controls: 
 
 Left paddle:
-  Up: W
+  Up: W,
   Down: S
   
 Right Paddle: 
-  Up: Up arrow key
+  Up: Up arrow key,
   Down: Down arrow key
